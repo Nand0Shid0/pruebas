@@ -1,0 +1,59 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.usuarios{
+    width: 300px;
+    height: 300px;
+    padding: auto;
+    background-color: red;
+    float: left;
+    margin-left: 70px;
+}
+
+a{
+    color: white;
+    font-size: 20px;
+}
+
+.inventario{
+    width: 300px;
+    height: 300px;
+    padding: auto;
+    background-color: green;
+    float: left;
+}
+
+.provedores{
+    width: 300px;
+    height: 300px;
+    padding: auto;
+    background-color: purple;
+    float: left;
+    margin-top: -300px;
+    margin-left: px;
+    
+    
+}
+.productos{
+    width: 300px;
+    height: 300px;
+    padding: auto;
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+.logout{
+    background-color: crimson;
+    width: 150px;
+    height: 75px;
+    margin-left: 1100px;
+    margin-top: 100px;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.titulo{
+    text-align: center;
+}
+
+.descripcion{
+    margin: 12px;
+    text-align: center;
+    height: 200px;
+    width: 500px;
+    border: 5px blue;
+    float: left;
+    align-items: center;
+    margin-left: 430px;
+}
